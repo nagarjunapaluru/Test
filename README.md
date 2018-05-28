@@ -1,6 +1,5 @@
 
 # Requirements
-========================
 
 - Python 3.x.x
 
@@ -10,6 +9,5 @@
 
 
 # Running the Script
-=========================
 
 python bcd_data_analysis.py
